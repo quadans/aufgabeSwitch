@@ -1,4 +1,4 @@
-#include <iostream>
+/*#include <iostream>
 
 int calculate()
 {
@@ -41,4 +41,4 @@ int main()
 {
 	Ausgabe(calculate());
 	return 0;
-}
+}*/
